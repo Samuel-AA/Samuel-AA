@@ -2,7 +2,7 @@
 - BTech : Statistics
 - MSc : Data Science 
 - NIIT Certified Network Associate.
-- R, Python, Tableau, MYSQL.
+- R, Python, Tableau, Alteryx, MYSQL and Exasol.
 
 <!---
 Samuel-AA/Samuel-AA is a graduate of statistics from the federal university of technology Akure, also NIIT certified network administrator. I have worked with the Lagos Bureau of statistical during the 2016 households survey organised by the Lagos state government. I also worked as one of the SURVEY FIELD MANAGER (CONTRACT) from Feb 2018- Mar 2018 at the Lagos bureau of statistics, Lagos, Nigeria.
